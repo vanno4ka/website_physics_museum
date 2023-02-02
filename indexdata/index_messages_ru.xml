@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[Museum]]></data>
+
+
+
+  <data name="ru_pano6260_title"><![CDATA[стартовая страница]]></data>
+  <data name="ru_spotpolygon6262_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_spotpolygon6263_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_spotpoint6264openurlwebsiteurl"><![CDATA[https://www.youtube.com/watch?v=uKko0X3yIcw]]></data>
+  <data name="ru_spotpoint6265openurlwebsiteurl"><![CDATA[https://vhg-physics-museum.000webhostapp.com/instruments.html]]></data>
+  <data name="ru_spotpoint6266openurlwebsiteurl"><![CDATA[https://youtu.be/kFTrfKginus]]></data>
+  <data name="ru_spotpoint6267openurlwebsiteurl"><![CDATA[https://forms.gle/MHZfsKK3gWDrn6Q19]]></data>
+
+
+  <data name="ru_pano4186_title"><![CDATA[Истории на музейном уроке]]></data>
+  <data name="ru_spotpolygon4188_tooltip"><![CDATA[Оптика]]></data>
+  <data name="ru_spotpolygon4189_tooltip"><![CDATA[Колебания и волны]]></data>
+  <data name="ru_spotpolygon4190_tooltip"><![CDATA[Электричество и Магнетизм]]></data>
+  <data name="ru_spotpolygon4191_tooltip"><![CDATA[Механика]]></data>
+  <data name="ru_spotpolygon4192_tooltip"><![CDATA[Термодинамика]]></data>
+  <data name="ru_spotpolygon4203_tooltip"><![CDATA[Назад]]></data>
+
+  <data name="ru_panogroup4386_title"><![CDATA[Музейные уроки]]></data>
+
+  <data name="ru_pano4642_title"><![CDATA[Колебания и волны]]></data>
+  <data name="ru_spotpolygon4651_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_spotpoint4652openurlwebsiteurl"><![CDATA[https://youtu.be/gCivooWAEdI]]></data>
+  <data name="ru_spotpoint4653openurlwebsiteurl"><![CDATA[https://youtu.be/aL8sr-N3KDo]]></data>
+  <data name="ru_spotpoint4654openurlwebsiteurl"><![CDATA[https://etreniki.ru/49Z4D65D1V]]></data>
+  <data name="ru_pano4655_title"><![CDATA[Механика]]></data>
+  <data name="ru_spotpolygon4657_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_spotpoint4658openurlwebsiteurl"><![CDATA[https://youtu.be/dQJvDhKEmyE]]></data>
+  <data name="ru_spotpoint4659openurlwebsiteurl"><![CDATA[https://youtu.be/DEFr39QiFKs]]></data>
+  <data name="ru_spotpoint4660openurlwebsiteurl"><![CDATA[https://etreniki.ru/1QZ4JNW2WD]]></data>
+  <data name="ru_spotpoint4661openurlwebsiteurl"><![CDATA[https://docs.google.com/forms/d/e/1FAIpQLSceWGGpdW4MDi5S_Y48NyZ7F7-zfuXQifByZjaOmvc2p51RjA/viewform]]></data>
+  <data name="ru_spotpoint4662openurlwebsiteurl"><![CDATA[https://youtu.be/6zU3UR-p1xM]]></data>
+  <data name="ru_pano4860_title"><![CDATA[Электричество и Магнетизм]]></data>
+  <data name="ru_spotpoint4862openurlwebsiteurl"><![CDATA[https://vhg-physics-museum.000webhostapp.com/Museum-lesson-Electricity.html]]></data>
+  <data name="ru_spotpoint4863openurlwebsiteurl"><![CDATA[https://vhg-physics-museum.000webhostapp.com/Museum-lesson-in-electrodynamics.html]]></data>
+  <data name="ru_spotpoint4864openurlwebsiteurl"><![CDATA[https://vhg-physics-museum.000webhostapp.com/Itinerary-electrodynamics.html]]></data>
+  <data name="ru_spotpoint4865openurlwebsiteurl"><![CDATA[https://vhg-physics-museum.000webhostapp.com/Itinerary-Electricity.html]]></data>
+  <data name="ru_spotpoint4866openurlwebsiteurl"><![CDATA[https://www.youtube.com/watch?v=vcLV6AE-CCs]]></data>
+  <data name="ru_spotpoint4867openurlwebsiteurl"><![CDATA[https://www.youtube.com/watch?v=bZjMihrcW2U]]></data>
+  <data name="ru_spotpoint4868openurlwebsiteurl"><![CDATA[https://vhg-physics-museum.000webhostapp.com/Electricity-Cabinet_-answer-sheet.html]]></data>
+  <data name="ru_spotpolygon4872_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_pano5050_title"><![CDATA[Термодинамика]]></data>
+  <data name="ru_spotpolygon5052_tooltip"><![CDATA[Назад]]></data>
+  <data name="ru_spotpoint5053openurlwebsiteurl"><![CDATA[https://youtu.be/9j567cNJGqk]]></data>
+  <data name="ru_spotpoint5054openurlwebsiteurl"><![CDATA[https://youtu.be/JYeVGO1kkIQ]]></data>
+  <data name="ru_pano5061_title"><![CDATA[Оптика]]></data>
+  <data name="ru_spotpoint5063openurlwebsiteurl"><![CDATA[https://vhg-physics-museum.000webhostapp.com/MuseumlessontheLawsofgeometricoptics.html]]></data>
+  <data name="ru_spotpoint5064openurlwebsiteurl"><![CDATA[https://vhg-physics-museum.000webhostapp.com/theLawsofgeometricaloptics.html]]></data>
+  <data name="ru_spotpoint5065openurlwebsiteurl"><![CDATA[https://www.youtube.com/watch?v=47hX_w2O8HM]]></data>
+  <data name="ru_spotpoint5066openurlwebsiteurl"><![CDATA[https://www.youtube.com/watch?v=71Wpecwzxkk]]></data>
+  <data name="ru_spotpoint5067openurlwebsiteurl"><![CDATA[https://vhg-physics-museum.000webhostapp.com/responsetoquestion.html]]></data>
+  <data name="ru_spotpolygon5068_tooltip"><![CDATA[Назад]]></data>
+
+
+  <data name="ru_pano14_title"><![CDATA[Вход в лаборантскую]]></data>
+  <data name="ru_spotpolygon16_tooltip"><![CDATA[Далее]]></data>
+  <data name="ru_spotpolygon5055_tooltip"><![CDATA[Монохорд]]></data>
+
+
+  <data name="ru_pano12_title"><![CDATA[Лаборантская]]></data>
+  <data name="ru_spotpolygon17_tooltip"><![CDATA[Вход в лаборантскую]]></data>
+  <data name="ru_spotpolygon18_tooltip"><![CDATA[Теплота. Жидкость и Газ]]></data>
+  <data name="ru_spotpolygon19_tooltip"><![CDATA[Механика и Электричество]]></data>
+  <data name="ru_spotpolygon20_tooltip"><![CDATA[Электричество и Магнетизм]]></data>
+  <data name="ru_spotpolygon21_tooltip"><![CDATA[Колебания и волны]]></data>
+  <data name="ru_spotpolygon22_tooltip"><![CDATA[Оптика]]></data>
+  <data name="ru_spotpolygon5060_tooltip"><![CDATA[Монохорд]]></data>
+
+  <data name="ru_panogroup610_title"><![CDATA[Приборы]]></data>
+
+  <data name="ru_pano1503_title"><![CDATA[Колебания и волны]]></data>
+  <data name="ru_spotpolygon1510_tooltip"><![CDATA[Первая часть]]></data>
+  <data name="ru_spotpolygon1511_tooltip"><![CDATA[Вторая часть]]></data>
+  <data name="ru_pano1123_title"><![CDATA[Оптика]]></data>
+  <data name="ru_spotpolygon1127_tooltip"><![CDATA[Первая часть]]></data>
+  <data name="ru_spotpolygon1128_tooltip"><![CDATA[Вторая часть]]></data>
+  <data name="ru_pano646_title"><![CDATA[Электричество и Магнетизм]]></data>
+  <data name="ru_spotpolygon663_tooltip"><![CDATA[Первая часть]]></data>
+  <data name="ru_spotpolygon664_tooltip"><![CDATA[Вторая часть]]></data>
+  <data name="ru_pano1802_title"><![CDATA[Механика и Электричество]]></data>
+  <data name="ru_spotpolygon1804_tooltip"><![CDATA[Механика]]></data>
+  <data name="ru_spotpolygon1805_tooltip"><![CDATA[Электричество (Третья часть)]]></data>
+  <data name="ru_pano645_title"><![CDATA[Теплота. Жидкость и Газ]]></data>
+  <data name="ru_spotpolygon659_tooltip"><![CDATA[Первая часть]]></data>
+  <data name="ru_spotpolygon660_tooltip"><![CDATA[Вторая часть]]></data>
+
+  <data name="ru_panogroup653_title"><![CDATA[Колебания и волны]]></data>
+
+  <data name="ru_pano41_title"><![CDATA[Вторая часть]]></data>
+  <data name="ru_pano40_title"><![CDATA[Первая часть]]></data>
+  <data name="ru_spotpolygon5249_tooltip"><![CDATA[Камертон]]></data>
+  <data name="ru_spotpolygon5253_tooltip"><![CDATA[Маятник Максвелла]]></data>
+
+  <data name="ru_panogroup3789_title"><![CDATA[Теплота. Жидкость и Газ]]></data>
+
+  <data name="ru_pano35_title"><![CDATA[Вторая часть]]></data>
+  <data name="ru_spotpolygon4884_tooltip"><![CDATA[Паровая турбина]]></data>
+  <data name="ru_pano34_title"><![CDATA[Первая часть]]></data>
+
+  <data name="ru_panogroup3791_title"><![CDATA[Механика и Электричество]]></data>
+
+  <data name="ru_pano38_title"><![CDATA[Механика]]></data>
+  <data name="ru_spotpolygon4194_tooltip"><![CDATA[Мёртвая петля]]></data>
+  <data name="ru_spotpolygon5257_tooltip"><![CDATA[Водяной насос]]></data>
+  <data name="ru_pano39_title"><![CDATA[Электричество (Третья часть)]]></data>
+  <data name="ru_spotpolygon5961_tooltip"><![CDATA[Медная труба и магнит (правило Ленца)]]></data>
+  <data name="ru_spotpolygon5967_tooltip"><![CDATA[Электромагнитная и пороховая пушки]]></data>
+
+  <data name="ru_panogroup3793_title"><![CDATA[Электричество и Магнетизм]]></data>
+
+  <data name="ru_pano42_title"><![CDATA[Первая часть]]></data>
+  <data name="ru_spotpolygon4874_tooltip"><![CDATA[Тлеющий разряд]]></data>
+  <data name="ru_spotpolygon5265_tooltip"><![CDATA[Силовые линии электрического поля]]></data>
+  <data name="ru_spotpolygon5957_tooltip"><![CDATA[Крутильные весы]]></data>
+  <data name="ru_pano43_title"><![CDATA[Вторая часть]]></data>
+  <data name="ru_spotpolygon4560_tooltip"><![CDATA[Коронный двигатель]]></data>
+  <data name="ru_spotpolygon4878_tooltip"><![CDATA[Генератор переменного тока]]></data>
+  <data name="ru_spotpolygon5261_tooltip"><![CDATA[Солнечная батарея]]></data>
+
+  <data name="ru_panogroup3795_title"><![CDATA[Оптика]]></data>
+
+  <data name="ru_pano36_title"><![CDATA[Первая часть]]></data>
+  <data name="ru_spotpolygon4405_tooltip"><![CDATA[Модель для демонстрации солнечного затмения]]></data>
+  <data name="ru_spotpolygon4553_tooltip"><![CDATA[Старинный прибор Стереоскоп]]></data>
+  <data name="ru_pano683_title"><![CDATA[Вторая часть]]></data>
+  <data name="ru_spotpolygon4564_tooltip"><![CDATA[Оптоволокно]]></data>
+
+  <data name="ru_panogroup4404_title"><![CDATA[Страницы приборов]]></data>
+
+  <data name="ru_pano4403_title"><![CDATA[Модель для солнечного затмения]]></data>
+  <data name="ru_spotpoint4406openurlwebsiteurl"><![CDATA[https://vhg-physics-museum.000webhostapp.com/thestraightnessoflight.html]]></data>
+  <data name="ru_spotpoint4407openurlwebsiteurl"><![CDATA[https://youtu.be/71Wpecwzxkk]]></data>
+  <data name="ru_pano4195_title"><![CDATA[Мёртвая петля]]></data>
+  <data name="ru_spotpoint4197openurlwebsiteurl"><![CDATA[https://vhg-physics-museum.000webhostapp.com/Mertvaya_petlya.html]]></data>
+  <data name="ru_spotpoint4198openurlwebsiteurl"><![CDATA[https://youtu.be/DFg0shqDYTY]]></data>
+  <data name="ru_spotpoint4199openurlwebsiteurl"><![CDATA[https://learningapps.org/display?v=pnbcojg3320]]></data>
+  <data name="ru_spotpoint4200openurlwebsiteurl"><![CDATA[https://learningapps.org/display?v=przgguedt20]]></data>
+  <data name="ru_spotpoint4201openurlwebsiteurl"><![CDATA[https://learningapps.org/352195]]></data>
+  <data name="ru_spotpoint4202openurlwebsiteurl"><![CDATA[https://learningapps.org/display?v=pmvr3kqwc20]]></data>
+  <data name="ru_pano4554_title"><![CDATA[Стереоскоп]]></data>
+  <data name="ru_spotpoint4556openurlwebsiteurl"><![CDATA[https://vhg-physics-museum.000webhostapp.com/refractionoflight.html]]></data>
+  <data name="ru_spotpoint4557openurlwebsiteurl"><![CDATA[https://youtu.be/tZ62ohpIpvg]]></data>
+  <data name="ru_pano4558_title"><![CDATA[Коронный двигатель]]></data>
+  <data name="ru_spotpoint4561openurlwebsiteurl"><![CDATA[https://vhg-physics-museum.000webhostapp.com/Crown-engine-text.html]]></data>
+  <data name="ru_spotpoint4562openurlwebsiteurl"><![CDATA[https://youtu.be/nmELMc-tK5Y]]></data>
+  <data name="ru_pano4565_title"><![CDATA[Оптоволокно]]></data>
+  <data name="ru_spotpoint4568openurlwebsiteurl"><![CDATA[https://vhg-physics-museum.000webhostapp.com/Pochemymevidimtela.html]]></data>
+  <data name="ru_spotpoint4569openurlwebsiteurl"><![CDATA[https://youtu.be/47hX_w2O8HM]]></data>
+  <data name="ru_pano4875_title"><![CDATA[Тлеющий разряд]]></data>
+  <data name="ru_spotpoint4877openurlwebsiteurl"><![CDATA[https://youtu.be/k1dvZ9e5Zcg]]></data>
+  <data name="ru_pano4879_title"><![CDATA[Генератор переменного тока]]></data>
+  <data name="ru_spotpoint4881openurlwebsiteurl"><![CDATA[https://youtu.be/mtyzpYslz5Y]]></data>
+  <data name="ru_pano4885_title"><![CDATA[Паровая турбина]]></data>
+  <data name="ru_spotpoint4887openurlwebsiteurl"><![CDATA[https://youtu.be/9j567cNJGqk]]></data>
+  <data name="ru_pano5056_title"><![CDATA[Монохорд]]></data>
+  <data name="ru_spotpoint5058openurlwebsiteurl"><![CDATA[https://youtu.be/O_R6WqGky88]]></data>
+  <data name="ru_pano5246_title"><![CDATA[Камертон]]></data>
+  <data name="ru_spotpoint5248openurlwebsiteurl"><![CDATA[https://youtu.be/Edj1mu_vluA]]></data>
+  <data name="ru_pano5250_title"><![CDATA[Маятник Максвелла]]></data>
+  <data name="ru_spotpoint5252openurlwebsiteurl"><![CDATA[https://youtu.be/SNVRM17Mpn4]]></data>
+  <data name="ru_pano5254_title"><![CDATA[Водяной насос]]></data>
+  <data name="ru_spotpoint5256openurlwebsiteurl"><![CDATA[https://youtu.be/_vAKWtFcH3w]]></data>
+  <data name="ru_pano5258_title"><![CDATA[Солнечная батарея]]></data>
+  <data name="ru_spotpoint5260openurlwebsiteurl"><![CDATA[https://youtu.be/4MDXhqKYyss]]></data>
+  <data name="ru_pano5262_title"><![CDATA[Силовые линии электрического тока]]></data>
+  <data name="ru_spotpoint5264openurlwebsiteurl"><![CDATA[https://youtu.be/bZjMihrcW2U]]></data>
+  <data name="ru_pano5954_title"><![CDATA[Крутильные весы]]></data>
+  <data name="ru_spotpoint5956openurlwebsiteurl"><![CDATA[https://youtu.be/vcLV6AE-CCs]]></data>
+  <data name="ru_pano5958_title"><![CDATA[Медная труба и магнит (правило Ленца)]]></data>
+  <data name="ru_spotpoint5960openurlwebsiteurl"><![CDATA[https://youtu.be/L3glRkysPkA]]></data>
+  <data name="ru_pano5964_title"><![CDATA[Электромагнитная и пороховая пушки]]></data>
+  <data name="ru_spotpoint5966openurlwebsiteurl"><![CDATA[https://youtu.be/fUsijZiBy1o]]></data>
+
+
+
+
+
+
+  <data name="ru_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="ru_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="ru_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="ru_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="ru_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="ru_PdfViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="ru_PdfViewerclose_text"><![CDATA[Close]]></data>
+  <data name="ru_webVideoViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="ru_webVideoViewerclose_text"><![CDATA[Close]]></data>
+  <data name="ru_controlBar_classicprevSceneTip"><![CDATA[Previous panorama]]></data>
+  <data name="ru_controlBar_classicnextSceneTip"><![CDATA[Next panorama]]></data>
+  <data name="ru_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="ru_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="ru_controlBar_classicmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="ru_controlBar_classicmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="ru_controlBar_classicmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="ru_controlBar_classicmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="ru_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="ru_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="ru_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="ru_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="ru_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="ru_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="ru_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="ru_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="ru_controlBar_classicctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="ru_controlBar_classicctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
